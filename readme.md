@@ -1,4 +1,4 @@
-# Nginx unit performance
+# Uwsgi performance
 
 ```
 Server Software:
@@ -39,7 +39,7 @@ Percentage of the requests served within a certain time (ms)
  100%  10953 (longest request)
 ```
 
-# Uwsgi performance
+# Nginx Unit performance
 
 ```
 
